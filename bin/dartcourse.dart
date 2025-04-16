@@ -1,6 +1,5 @@
 import 'package:dartcourse/day1.dart' as day1;
 import 'package:dartcourse/day2.dart' as day2;
-import 'package:dartcourse/day3.dart' as day3;
 import 'dart:io';
 
 import 'package:dartcourse/day3.dart';
